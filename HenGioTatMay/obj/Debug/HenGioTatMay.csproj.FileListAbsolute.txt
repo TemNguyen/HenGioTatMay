@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\bin\Debug\HenGioTatMay.exe.config
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\bin\Debug\HenGioTatMay.exe
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\bin\Debug\HenGioTatMay.pdb
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.Form1.resources
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.exe
+C:\Users\ADMIN\Desktop\HenGioTatMay\HenGioTatMay\obj\Debug\HenGioTatMay.pdb
